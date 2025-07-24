@@ -41,3 +41,9 @@ end
 def color_suggestions
   ColorScience::Analyze.suggest_next_color
 end
+
+## Commands
+colors_in_context
+color_data
+color_probability
+color_suggestions
