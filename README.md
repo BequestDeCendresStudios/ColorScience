@@ -1,4 +1,4 @@
-# ColorScience
+# Color Science
 A method of analyzing colors.
 
 ## Output
