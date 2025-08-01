@@ -32,3 +32,10 @@ PH4DR1, 'Salmon', '#FC746B', 'Samon'
 PH5DR2, 'Khaki', '#B9B369', 'Khaki'
 PH5DR2, 'Khaki', '#B9B369', 'Khaki'
 ~~~
+
+## Pair Down Model
+To run the paired down model, type:
+
+~~~
+./extract_colors
+~~~
