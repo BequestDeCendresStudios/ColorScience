@@ -20,15 +20,15 @@ Each word is selected based on a random row and column in a predefined grid, wit
 One aspect of the term is how it repurposes data; it seems to remove brackets, and you still need to clean up its output. There is also a lot of repetition. But otherwise retains closeness to the original data format. Hashes are removed for this example:
 
 ~~~
-PH6DR2, 'Pale Lime', ' B1F468', 'Remonblanc'
-PH4DR1, 'Salmon', ' FC746B', 'Samon'
-PH6DR2, 'Pale Lime', ' B1F468', 'Remonblanc'
-PH4DR1, 'Salmon', ' FC746B', 'Samon'
-PH5DR2, 'Khaki', ' B9B369', 'Khaki'
-PH6DR2, 'Pale Lime', ' B1F468', 'Remonblanc'
-PH5DR2, 'Khaki', ' B9B369', 'Khaki'
-PH4DR1, 'Salmon', ' FC746B', 'Samon'
-PH4DR1, 'Salmon', ' FC746B', 'Samon'
-PH5DR2, 'Khaki', ' B9B369', 'Khaki'
-PH5DR2, 'Khaki', ' B9B369', 'Khaki'
+PH6DR2, 'Pale Lime', '#B1F468', 'Remonblanc'
+PH4DR1, 'Salmon', '#FC746B', 'Samon'
+PH6DR2, 'Pale Lime', '#B1F468', 'Remonblanc'
+PH4DR1, 'Salmon', '#FC746B', 'Samon'
+PH5DR2, 'Khaki', '#B9B369', 'Khaki'
+PH6DR2, 'Pale Lime', '#B1F468', 'Remonblanc'
+PH5DR2, 'Khaki', '#B9B369', 'Khaki'
+PH4DR1, 'Salmon', '#FC746B', 'Samon'
+PH4DR1, 'Salmon', '#FC746B', 'Samon'
+PH5DR2, 'Khaki', '#B9B369', 'Khaki'
+PH5DR2, 'Khaki', '#B9B369', 'Khaki'
 ~~~
